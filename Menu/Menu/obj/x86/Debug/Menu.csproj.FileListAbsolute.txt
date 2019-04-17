@@ -1,0 +1,16 @@
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\bin\Debug\Menu.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\bin\Debug\Menu.pdb
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmSoda.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmMona.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmPHD.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmGTA.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmVerde.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmVermelho.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmAzul.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.pdb
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.FrmMenu.resources
