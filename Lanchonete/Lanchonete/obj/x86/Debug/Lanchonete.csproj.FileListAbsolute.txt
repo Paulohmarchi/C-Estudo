@@ -1,0 +1,18 @@
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.FrmLanchonete.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.Properties.Resources.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.pdb
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.exe
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.pdb
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.FrmLanchonete.resources
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\Lanchonete.Properties.Resources.resources
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\2°ETIM\PC I\Lanchonete\Lanchonete\obj\x86\Debug\GenerateResource.write.1.tlog
