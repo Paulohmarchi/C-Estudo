@@ -1,0 +1,18 @@
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\bin\Debug\Calculo dos Eleitores.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\bin\Debug\Calculo dos Eleitores.pdb
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo_dos_Eleitores.frmCalculo.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo_dos_Eleitores.Properties.Resources.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo dos Eleitores.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo dos Eleitores.pdb
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo dos Eleitores.exe
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo dos Eleitores.pdb
+F:\Calculo dos Eleitores\Calculo dos Eleitores\bin\Debug\Calculo dos Eleitores.exe
+F:\Calculo dos Eleitores\Calculo dos Eleitores\bin\Debug\Calculo dos Eleitores.pdb
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo_dos_Eleitores.frmCalculo.resources
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\Calculo_dos_Eleitores.Properties.Resources.resources
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Calculo dos Eleitores\Calculo dos Eleitores\obj\x86\Debug\GenerateResource.write.1.tlog

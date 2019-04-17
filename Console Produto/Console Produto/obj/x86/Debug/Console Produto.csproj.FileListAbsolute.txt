@@ -1,0 +1,6 @@
+J:\2°ETIM\PC I\Console Produto\Console Produto\bin\Debug\Console Produto.exe
+J:\2°ETIM\PC I\Console Produto\Console Produto\bin\Debug\Console Produto.pdb
+J:\2°ETIM\PC I\Console Produto\Console Produto\obj\x86\Debug\Console Produto.exe
+J:\2°ETIM\PC I\Console Produto\Console Produto\obj\x86\Debug\Console Produto.pdb
+F:\2°ETIM\PC I\Console Produto\Console Produto\obj\x86\Debug\Console Produto.exe
+F:\2°ETIM\PC I\Console Produto\Console Produto\obj\x86\Debug\Console Produto.pdb
