@@ -1,0 +1,12 @@
+D:\2°ETIM\PC I\Desconto\Desconto\bin\Debug\Desconto.exe
+D:\2°ETIM\PC I\Desconto\Desconto\bin\Debug\Desconto.pdb
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.Form1.resources
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.Properties.Resources.resources
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.csproj.GenerateResource.Cache
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.exe
+D:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.pdb
+F:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.exe
+F:\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.pdb
+C:\Users\Paulo Henrique March\Desktop\Paulo\Escola\PAULO-2ETIM\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.exe
+C:\Users\Paulo Henrique March\Desktop\Paulo\Escola\PAULO-2ETIM\2°ETIM\PC I\Desconto\Desconto\obj\x86\Debug\Desconto.pdb

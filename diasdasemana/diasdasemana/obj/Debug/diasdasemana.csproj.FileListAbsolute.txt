@@ -1,0 +1,11 @@
+C:\Users\E67.L6.8\AppData\Local\Temporary Projects\diasdasemana\bin\Debug\diasdasemana.exe
+C:\Users\E67.L6.8\AppData\Local\Temporary Projects\diasdasemana\bin\Debug\diasdasemana.pdb
+C:\Users\E67.L6.8\AppData\Local\Temporary Projects\diasdasemana\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\E67.L6.8\AppData\Local\Temporary Projects\diasdasemana\obj\Debug\diasdasemana.exe
+C:\Users\E67.L6.8\AppData\Local\Temporary Projects\diasdasemana\obj\Debug\diasdasemana.pdb
+F:\diasdasemana\diasdasemana\obj\Debug\diasdasemana.exe
+F:\2°ETIM\DS\diasdasemana\diasdasemana\obj\Debug\diasdasemana.exe
+F:\2°ETIM\DS\diasdasemana\diasdasemana\obj\Debug\ResolveAssemblyReference.cache
+F:\2°ETIM\DS\diasdasemana\diasdasemana\bin\Debug\diasdasemana.exe
+F:\2°ETIM\DS\diasdasemana\diasdasemana\bin\Debug\diasdasemana.pdb
+F:\2°ETIM\DS\diasdasemana\diasdasemana\obj\Debug\diasdasemana.pdb
