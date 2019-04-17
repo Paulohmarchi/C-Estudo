@@ -1,0 +1,17 @@
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmTabuada.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\e67.l5.14\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmTabuada.resources
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\2°ETIM\PC I\Tabuada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe

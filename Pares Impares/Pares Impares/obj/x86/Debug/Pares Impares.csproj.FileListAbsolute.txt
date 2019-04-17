@@ -1,0 +1,14 @@
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares_Impares.Form1.resources
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares_Impares.Properties.Resources.resources
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.csproj.GenerateResource.Cache
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\bin\Debug\Pares Impares.exe
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\bin\Debug\Pares Impares.pdb
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.exe
+I:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.pdb
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.exe
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.pdb
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares_Impares.Form1.resources
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares_Impares.Properties.Resources.resources
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\obj\x86\Debug\Pares Impares.csproj.GenerateResource.Cache
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\bin\Debug\Pares Impares.exe
+E:\2°ETIM\PC I\Pares Impares\Pares Impares\bin\Debug\Pares Impares.pdb
